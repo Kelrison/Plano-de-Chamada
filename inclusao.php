@@ -302,7 +302,7 @@
     <label for="password">Senha: </label>
    </td>
    <td align="left">
-    <input type="password" name="senha" maxlength="12" minlength="6"><a>*No mínimo 6 caracteres</a>
+    <input type="password" name="senha" maxlength="12" minlength="6"><b>*No mínimo 6 caracteres</b>
    </td>
   
 
